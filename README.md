@@ -1,4 +1,4 @@
-# Nathaniel Todd Webpage
+# Nathaniel Todd CV Webpage
 
 Welcome to my cv webpage repository. It is based off of the resume free bootstrap template. You can find more information below:
 
